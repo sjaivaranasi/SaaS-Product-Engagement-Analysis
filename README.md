@@ -137,7 +137,7 @@ SaaS-Product-Engagement-Analysis/
 
 ## Dashboard
 
-[View Interactive Dashboard on Tableau Public →](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[View Interactive Dashboard on Tableau Public →](https://public.tableau.com/views/RavenStackSaaSChurnRevenueAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 6 worksheets assembled into 1 executive dashboard:
 - **KPI Strip:** Churn rate (22%), active accounts (390), median MRR ($931), top churn reason (features)
